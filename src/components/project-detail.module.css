@@ -1,0 +1,19 @@
+.tabFlex {
+  margin: -10px 0px 20px 5px;
+  display: flex;
+  flex-direction: row;
+}
+.tabFlex :first-child {
+  margin: 0px 0px 8px 0px;
+}
+.tabFlex * {
+  margin: 0px 8px;
+}
+
+.header img {
+  width: 100%;
+}
+
+.content > div {
+  margin: 20px 0px;
+}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklilian_s_personal_website=self.webpackChunklilian_s_personal_website||[]).push([[678],{675:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var l=t(294);function a(e){return l.createElement("div",{className:"WorkHome-module--container--3wHP9"},l.createElement("h2",null,"WORK"))}var r=function(e){e.data;return l.createElement("body",null,l.createElement(a,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-c53215f5c3fbcce05bfa.js.map

@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "AirbnbBook";
+  src: local("AirbnbBook"),
+    url(../fonts/AirbnbCerealBook.ttf) format("truetype");
+}
+@font-face {
+  font-family: "AirbnbMedium";
+  src: local("AirbnbMedium"),
+    url(../fonts/AirbnbCerealMedium.ttf) format("truetype");
+}
+@font-face {
+  font-family: "AirbnbBold";
+  src: local("AirbnbBold"),
+    url(../fonts/AirbnbCerealBold.ttf) format("truetype");
+}
+
+a {
+  text-decoration: none;
+}
+img {
+  min-width: 100%;
+  min-height: 100%;
+}
+a,
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+.wider-body {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.default-body {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+.content {
+  margin: 2% 3%;
+}
+html * {
+  font-family: "AirbnbBook";
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  font-size: 120px;
+}
+
+h2 {
+  padding: 15px 0px;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 20px;
+}
+p {
+  font-size: 20px;
+}
+
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size: 120px;
+  }
+
+  h2 {
+    padding: 15px 0px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  h3 {
+    font-size: 16px;
+  }
+  p {
+    font-size: 14px;
+  }
+}

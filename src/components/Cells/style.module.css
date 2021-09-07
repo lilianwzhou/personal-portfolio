@@ -1,0 +1,11 @@
+.main {
+  margin: 0px 0px;
+}
+
+.main a {
+  text-decoration: underline;
+}
+
+.main img {
+  max-width: 100%;
+}

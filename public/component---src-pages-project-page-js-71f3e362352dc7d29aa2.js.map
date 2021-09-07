@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-project-page-js-71f3e362352dc7d29aa2.js","mappings":"oMAEe,SAASA,IACtB,OAAO","sources":["webpack://lilian-s-personal-website/./src/pages/projectPage.js"],"sourcesContent":["import React from \"react\";\n\nexport default function ProjectPage() {\n  return <h1></h1>;\n}\n"],"names":["ProjectPage"],"sourceRoot":""}

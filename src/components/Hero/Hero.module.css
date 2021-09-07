@@ -1,0 +1,26 @@
+.content > h1 {
+  font-size: 200px;
+  font-weight: 500;
+  margin: -25px 0;
+}
+.content {
+  margin: 20px 0px;
+}
+
+@media screen and (max-height: 600px) {
+  .content > h1 {
+    font-size: 120px;
+  }
+}
+
+@media screen and (max-height: 1300px) {
+  .content > h1 {
+    font-size: 20vh;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .content > h1 {
+    font-size: 23vw;
+  }
+}
